@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\logo.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\logo.xnb</Output>
       <Time>2014-10-19T10:50:40+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\bullet.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\bullet.xnb</Output>
       <Time>2014-10-21T13:11:26+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghost.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghost.xnb</Output>
       <Time>2014-10-21T14:00:30+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\map.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\map.xnb</Output>
       <Time>2014-10-21T17:56:42+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\test.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\test.xnb</Output>
       <Time>2014-10-21T19:44:58+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostDead.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostDead.xnb</Output>
       <Time>2014-10-21T20:01:42+01:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\spriteFont.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\spriteFont.xnb</Output>
       <Time>2014-10-22T16:13:14+01:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\cursor.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\cursor.xnb</Output>
       <Time>2014-10-21T21:38:38+01:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\cursor2.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\cursor2.xnb</Output>
       <Time>2014-10-21T21:47:20+01:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSuper.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSuper.xnb</Output>
       <Time>2014-10-22T08:50:24+01:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSuperDead.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSuperDead.xnb</Output>
       <Time>2014-10-22T08:51:56+01:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\player.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\player.xnb</Output>
       <Time>2014-10-22T09:45:18+01:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSpawner.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSpawner.xnb</Output>
       <Time>2014-10-24T15:43:24+01:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\key.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\key.xnb</Output>
       <Time>2014-10-23T23:33:26+01:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\bonusHP.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\bonusHP.xnb</Output>
       <Time>2014-10-24T14:04:14+01:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\teleporter.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\teleporter.xnb</Output>
       <Time>2014-10-24T15:26:30+01:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSpawnerDead.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSpawnerDead.xnb</Output>
       <Time>2014-10-24T15:41:52+01:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\dirt.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\dirt.xnb</Output>
       <Time>2014-10-29T08:52:29.1348894+00:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\free.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\free.xnb</Output>
       <Time>2014-10-29T08:53:53.3196017+00:00</Time>
     </Item>
     <Item>
@@ -178,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\peas.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\peas.xnb</Output>
       <Time>2014-10-29T08:53:27.580975+00:00</Time>
     </Item>
     <Item>
@@ -187,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\playerSpawner.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\playerSpawner.xnb</Output>
       <Time>2014-10-29T08:54:41.9666778+00:00</Time>
     </Item>
     <Item>
@@ -196,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\tele.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\tele.xnb</Output>
       <Time>2014-10-29T08:53:02.2576272+00:00</Time>
     </Item>
     <Item>
@@ -205,7 +205,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\vaccuum.xnb</Output>
+      <Output>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\vaccuum.xnb</Output>
       <Time>2014-10-29T08:54:14.103799+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -215,10 +215,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

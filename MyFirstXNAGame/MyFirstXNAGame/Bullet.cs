@@ -48,6 +48,12 @@ namespace MyFirstXNAGame
         {
             pos += velocity * (float)(gameTime.ElapsedGameTime.TotalSeconds);
 
+            if (TheGame.Instance.world.map.isRectangleFree(getWorldRectangle()))
+            {
+                List<Direction> list = TheGame.Instance.world.map.rectangleCollisions(getWorldRectangle());
+                TheGame.Instance.world.deleteBlock(list[0], getWorldRectangle());
+            }
+
             base.Update(gameTime);
         }
 

@@ -40,6 +40,15 @@ namespace MyFirstXNAGame
             return getPlayers()[id];
         }
 
+
+        public IEnumerable<GameObjectBlock> getGameObjects()
+        {
+            foreach (GameObject gameObject in this)
+            {
+                 yield return (GameObjectBlock)gameObject;
+            }
+        }
+
         public IEnumerable<Bullet> getBullets()
         {
             foreach (GameObject gameObject in this)

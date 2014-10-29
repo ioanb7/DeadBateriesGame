@@ -25,17 +25,22 @@ namespace MyFirstXNAGame
 
             if(TheGame.Instance.isHavingAUserMap)
             {
+                /*
                 float playerSpeed = 3.0f;
 
-                gameObjectList.Add(new Player(map.getPlayerPos(), new Vector2(playerSpeed, playerSpeed), 0));
+                
 
+                map.AddMapToGameObjectList(gameObjectList);
+                gameObjectList.Add(new Player(map.getPlayerPos(), new Vector2(playerSpeed, playerSpeed), 0));
                 //TheGame.Instance.data.
+                */
             }
             else
             {
 
                 float playerSpeed = 3.0f;
-                gameObjectList.Add(new Player(new Vector2(map.playerPos.X * map.blockSize, map.playerPos.Y * map.blockSize), new Vector2(playerSpeed, playerSpeed), 0));
+                map.AddMapToGameObjectList(gameObjectList);
+                gameObjectList.Add(new Player(map.getPlayerPos() + new Vector2(5,5), new Vector2(playerSpeed, playerSpeed), 0));
 
                 /*
                 float playerSpeed = 3.0f;
@@ -50,6 +55,11 @@ namespace MyFirstXNAGame
             }
         }
 
+        public void deleteBlock(Direction direction, Rectangle rect)
+        {
+            map.deleteBlock(direction, rect);
+        }
+
         public static World getWorld(MapMaker.DataObject data)
         {
             // TODO: this has to be changed.
@@ -58,10 +68,11 @@ namespace MyFirstXNAGame
 
         public void LoadContent(GraphicsContentLoader graphicsContentLoader)
         {
+            /*
             Block.LoadContent(graphicsContentLoader);
             texture = graphicsContentLoader.Get("Images/map");
             foreach (GameObject gameObject in gameObjectList)
-                gameObject.LoadContent(graphicsContentLoader);
+                gameObject.LoadContent(graphicsContentLoader);*/
         }
 
         public void Update(GameTime gameTime)
@@ -206,7 +217,7 @@ namespace MyFirstXNAGame
                     RectangleSprite.DrawRectangle(TheGame.Instance.worldDrawer, worldRectangle, Color.Yellow, 1);
 
                     //map.getBlock(i, j).Draw(spriteBatch);
-                    Block.DrawFor(i * 20, j * 20, map.getBlock(i, j).Type, spriteBatch);
+                    //Block.DrawFor(i * 20, j * 20, map.getBlock(i, j).Type, spriteBatch);
                 }
         }
 

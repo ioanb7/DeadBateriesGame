@@ -79,13 +79,19 @@
   <ItemGroup>
     <Compile Include="Actor.cs" />
     <Compile Include="AnimationPopper.cs" />
+    <Compile Include="GameObjectBlock.cs" />
+    <Compile Include="GameObjectBlockBonus.cs" />
     <Compile Include="GameObjectBonusHp.cs" />
     <Compile Include="GameObjectBonusList.cs" />
     <Compile Include="Bullet.cs" />
     <Compile Include="ChasingGhost.cs" />
     <Compile Include="FiniteSpawner.cs" />
     <Compile Include="GameObjectBonus.cs" />
+    <Compile Include="GameObjectDirt.cs" />
     <Compile Include="GameObjectKey.cs" />
+    <Compile Include="GameObjectPeas.cs" />
+    <Compile Include="GameObjectPortal.cs" />
+    <Compile Include="GameObjectSpawner.cs" />
     <Compile Include="IControllable.cs" />
     <Compile Include="Cursor.cs" />
     <Compile Include="GameObject.cs" />

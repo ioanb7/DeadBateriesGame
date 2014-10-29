@@ -14,6 +14,14 @@ namespace MyFirstXNAGame
         Spawner,
         Key,
         Bonus,
-        Teleporter
+        Teleporter,
+
+
+        Dirt,
+        Free,
+        Peas,
+        //Vaccuum,
+        PlayerSpawner,
+        Portal
     }
 }

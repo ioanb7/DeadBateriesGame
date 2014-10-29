@@ -60,3 +60,36 @@ C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debu
 C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\playerSpawner.xnb
 C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\tele.xnb
 C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\vaccuum.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MyFirstXNAGame.exe
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\logo.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghost.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\map.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\test.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostDead.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\spriteFont.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\cursor2.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSuper.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSuperDead.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSpawner.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\key.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\bonusHP.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\teleporter.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\ghostSpawnerDead.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\dirt.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\free.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\peas.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\playerSpawner.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\tele.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Images\vaccuum.xnb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\MyFirstXNAGame.exe
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\MyFirstXNAGame.pdb
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Tyler\Documents\GitHub\DeadBateriesGame\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MyFirstXNAGame.pdb

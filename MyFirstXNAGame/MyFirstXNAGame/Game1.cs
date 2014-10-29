@@ -87,10 +87,15 @@ namespace MyFirstXNAGame
             }
             else
             {
+                int mapWidth = 10;
+                int mapHeight = 10;
+
                 Map map = new Map();
-                map.setWidth(10);
-                map.setHeight(10);
-                map.setBlockSize(20);
+                map.setWidth(mapWidth);
+                map.setHeight(mapHeight);
+                //map.setBlockSize(20);
+                map.setBlockSizeWidth(40); // TODO: replace this with displaySize.X / mapWidth ----  Math.floor( it )
+                map.setBlockSizeHeight(40);
                 map.create();
                 map.makeEveryBlockDirty();
                 map.setPlayerStartPos(new Point(2, 2));
@@ -515,24 +520,16 @@ namespace MyFirstXNAGame
             {
                 if (gameObject.state == GameObjectState.Created)
                 {
-                    //render only if in viewport
-                    if (gameObject.getWorldRectangle().Intersects(new Rectangle( //world rectangle
-                            (int)(float)mapPos[playerId].X + (int)(float)displayPos.X,
-                            (int)(float)mapPos[playerId].Y + (int)(float)displayPos.Y,
-                            (int)(float)internalDisplaySize.X,
-                            (int)(float)internalDisplaySize.Y)))
+                    gameObject.Draw(TheGame.Instance.worldDrawer);
+                    if (isInDev)
                     {
-                        gameObject.Draw(TheGame.Instance.worldDrawer);
-                        if (isInDev)
-                        {
-                            Rectangle worldRectangle = gameObject.getWorldRectangle(); // change it just a bit in case the sprite and world collisions are the same sizes
-                            worldRectangle.X -= 1;
-                            worldRectangle.Y -= 1;
-                            worldRectangle.Width += 2;
-                            worldRectangle.Height += 2;
-                            RectangleSprite.DrawRectangle(TheGame.Instance.worldDrawer, gameObject.getCollisionRectangle(), Color.Yellow, 1);
-                            RectangleSprite.DrawRectangle(TheGame.Instance.worldDrawer, worldRectangle, Color.Red, 1);
-                        }
+                        Rectangle worldRectangle = gameObject.getWorldRectangle(); // change it just a bit in case the sprite and world collisions are the same sizes
+                        worldRectangle.X -= 1;
+                        worldRectangle.Y -= 1;
+                        worldRectangle.Width += 2;
+                        worldRectangle.Height += 2;
+                        RectangleSprite.DrawRectangle(TheGame.Instance.worldDrawer, gameObject.getCollisionRectangle(), Color.Yellow, 1);
+                        RectangleSprite.DrawRectangle(TheGame.Instance.worldDrawer, worldRectangle, Color.Red, 1);
                     }
                 }
             }
