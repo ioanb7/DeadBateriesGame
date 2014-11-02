@@ -1,2 +1,4 @@
 C:\Users\Catalin\Documents\Visual Studio 2013\Projects\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGameContent\obj\x86\Debug\MyFirstXNAGameContent.contentprojResolveAssemblyReference.cache
 C:\Users\Tyler\Desktop\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGameContent\obj\x86\Debug\MyFirstXNAGameContent.contentprojResolveAssemblyReference.cache
+D:\joc ma\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGameContent\obj\x86\Debug\MyFirstXNAGameContent.contentprojResolveAssemblyReference.cache
+D:\joc ma\MyFirstXNAGame\MyFirstXNAGame\MyFirstXNAGameContent\obj\x86\Debug\Audio\GameAudio.xml

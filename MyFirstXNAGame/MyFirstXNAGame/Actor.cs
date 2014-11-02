@@ -13,7 +13,7 @@ namespace MyFirstXNAGame
         Alive,
         Dead
     }
-    public class Actor : GameObjectBlock
+    public class Actor : GameObject
     {
         private int HP { get; set; } //current hp
         public int MaxHP { get; set; } //the start hp

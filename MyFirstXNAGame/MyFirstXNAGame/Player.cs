@@ -19,7 +19,6 @@ namespace MyFirstXNAGame
         Direction direction;
         Direction fixedBulletDirection;
 
-        uint peas;
 
         Weapon weapon;
 
@@ -38,12 +37,6 @@ namespace MyFirstXNAGame
             this.isPermanentlyOnTheMap = true;
             this.fixedBulletDirection = Direction.None;
             this.bonusList = new GameObjectBonusList();
-            peas = 0;
-        }
-
-        public void addPeas(uint no)
-        {
-            peas += no;
         }
 
         public GameObjectBonusList getBonusList()
@@ -206,10 +199,7 @@ namespace MyFirstXNAGame
             //don't go backwords
             if (initialVelocity.X < 0 || initialVelocity.Y < 0)
                 initialVelocity = new Vector2(1, 1);
-
-            Vector2 tempV = stateVelocity * initialVelocity + pos;
-            if (TheGame.Instance.world.map.isRectangleFree(new Rectangle((int)(float)tempV.X, (int)(float)tempV.Y, 20, 20)))
-                pos += tempV - pos;
+            pos += stateVelocity * initialVelocity;
 
             pos = TheGame.Instance.world.GetRightCoordinates(getWorldRectangle(), getCollisionRectangle()); //TODO: lol.. +200?
 

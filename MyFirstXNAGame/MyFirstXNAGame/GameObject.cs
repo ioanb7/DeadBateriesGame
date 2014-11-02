@@ -30,12 +30,6 @@ namespace MyFirstXNAGame
             isPermanentlyOnTheMap = false;
         }
 
-        /*
-        public static T get<T>(Point pos, int blockSizeWidth, int blockSizeHeight) where T:GameObject
-        {
-            return new T(new Vector2(pos.X * blockSizeWidth, pos.Y * blockSizeHeight), blockSizeWidth, blockSizeHeight);
-        }
-        */
         public abstract void LoadContent(GraphicsContentLoader graphicsContentLoader);
         public abstract void Update(GameTime gameTime);
         public abstract void Draw(WorldDrawer worldDrawer);
